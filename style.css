@@ -1,0 +1,39 @@
+html{
+    background-color: blanchedalmond;
+}
+
+body{
+    background-color: bisque;
+    text-align: center;
+}
+
+h1{
+    color: cornflowerblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+img{
+    width: 55%;
+    height: 55%;
+}
+
+nav {
+    background-color: chartreuse;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li{
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a{
+     color: gold;
+     text-decoration: none;
+}
